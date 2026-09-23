@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.pnpm-store/
+.vite/
+coverage/
+test-results/
+playwright-report/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Superseded local prototyping notes and tuning harness.
+/CONTRACT.md
+/tune-physics.mjs
